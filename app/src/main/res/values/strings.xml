@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookPlayer</string>
+    <string name="play_button">play track</string>
+    <string name="previous_track">previous track</string>
+    <string name="next_track">next track</string>
+    <string name="track_image">track image</string>
+    <string name="book_1">Book 1</string>
+</resources>

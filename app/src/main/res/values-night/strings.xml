@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play_button">play button</string>
+    <string name="previous_track">previous track</string>
+    <string name="track_image">track image</string>
+    <string name="book_1">Book 1</string>
+</resources>
